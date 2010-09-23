@@ -1,0 +1,10 @@
+equipment:
+---------
+kettle
+
+instructions:
+------------
+boil water
+add milk
+... add tea leaves
+ 
